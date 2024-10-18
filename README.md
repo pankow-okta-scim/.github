@@ -1,2 +1,3 @@
 # .github
-PUBLIC README repo
+
+This is the PUBLIC README info
